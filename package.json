@@ -1,0 +1,24 @@
+{
+  "name": "apirasp79",
+  "version": "1.0.0",
+  "description": "API Rest server providing reading from raspberry sensors ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaperPesto/apirasp79.git"
+  },
+  "keywords": [
+    "API",
+    "Rest",
+    "raspberry"
+  ],
+  "author": "Leonardo Bianchini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaperPesto/apirasp79/issues"
+  },
+  "homepage": "https://github.com/PaperPesto/apirasp79#readme"
+}
